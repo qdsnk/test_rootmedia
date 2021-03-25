@@ -32,8 +32,6 @@ h1 {
 
 .catalog h1 {
     margin: 25px 0px;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
 }
 
 h2 {
